@@ -1,4 +1,5 @@
 # Diversity_Inclusion_Analysis Using Power BI
+This project analyzes a Diversity & Inclusion dataset to provide actionable insights for HR. Using Power BI, I cleaned, transformed, and visualized key metrics such as hiring rates, promotions, performance ratings, and turnover, enabling data-driven decision-making to improve workforce diversity.
 
 ## Preview
 ![image](https://github.com/user-attachments/assets/8623355c-a8f1-4c1a-9784-e71c11c442c5)
