@@ -16,8 +16,8 @@ The purpose of this task is to:
 ## Tool Used
 Power BI
 
-Project Learnings
-Throughout this project, we've gained valuable experience and skills, including: 
+## Project Learnings
+ Throughout this project, we've gained valuable experience and skills, including: 
 * Creating interactive dashboards to track and analyze customer's data.
 * Creating KPI's for better understanding. *Utilizing complex parameters to drill down into worksheets and customize views using filters and slicers.
 * Establishing connections, joining new tables, performing calculations, manipulating data, and enabling user-driven parameters for visualization.
